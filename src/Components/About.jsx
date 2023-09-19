@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am Flutter developer and software student at Mehran University Jamshoro. I have almost 1.5 years of experience. I am currently working on different courses on Youtube.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am creating new ui designs through flutter and apart from this I also worked on front end development in 2021. I have little bit experience in front end development too. I am very passionate about technology and creating real world solutions";
 
 const About = () => {
   return (
