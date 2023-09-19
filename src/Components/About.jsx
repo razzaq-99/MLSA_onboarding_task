@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "C:\Users\USER\Documents\GitHub\MLSA_onboarding_task\src\images\developer.png";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -50,7 +50,7 @@ const detailOrQuote =
 const About = () => {
   return (
     <section className="padding" id="about">
-      <img className="background" src={image} alt={imageAltText} />
+      <img className="background" src={image} alt="" />
       <div
         style={{
           backgroundColor: "white",
