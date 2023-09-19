@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "C:\Users\USER\Documents\GitHub\MLSA_onboarding_task\src\images\developer.png";
+import image from "..\images\developer.png";
 
 const imageAltText = "purple and blue abstract background";
 
